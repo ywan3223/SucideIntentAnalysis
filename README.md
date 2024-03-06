@@ -1,4 +1,4 @@
-# Sucide Intent Analysis - Natural Language Process Project
+# Suicide Intent Analysis - Natural Language Process Project
 This project develops **machine learning model** to analyze online textual data for suicide risk **assessment**. Utilizing datasets derived from Reddit forums, the study evaluates the efficacy of various algorithms, including K-Neighbors Classifier, Multinomial Naïve Bayes, and Logistic Regression, to discern suicidal ideation. The optimal model demonstrated a test accuracy of 69.18% with an AUC score of 0.77, highlighting the potential of natural language processing in mental health diagnostics and indicating avenues for future refinement through advanced learning methodologies.  
 
 ## Dataset 
